@@ -5,7 +5,7 @@
 * No backend.. haha noobs.
 * This project is open-source and available on GitHub. Feel free to contribute or modify it as you like.
 
-# Getting started.
+# Getting started
 ## Installation
 1. Clone the repository: `git clone https://github.com/SillyKitr/silly-telefragger-site`
 2. Navigate to the project directory: `cd silly-telefragger-site`
