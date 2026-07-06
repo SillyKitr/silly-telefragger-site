@@ -8,7 +8,6 @@
 # Getting started
 ## Installation
 1. Clone the repository: `git clone https://github.com/SillyKitr/silly-telefragger-site`
-2. Navigate to the project directory: `cd silly-telefragger-site`
 3. Install dependencies: `npm install`
 
 ## Actually running it
