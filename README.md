@@ -17,4 +17,4 @@
 ## Now.. how do I take this project and straight up eat it?? (this has a license bro..)
 1. Fork the repository on GitHub.
 2. Build the project for production: `npm run build`
-3. Deploy.. anywhere you'd like??
+3. Deploy.. anywhere??? i don't know.. github pages maybe? or some other free hosting service.
